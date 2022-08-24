@@ -1,5 +1,5 @@
 # Calendar Patches
-This is a prototype for a calendar view using the Calendar View module. It currently only works with Drupal’s normal content views, not Solr Search API. 
+This is a prototype for a calendar view using the [Calendar View](https://www.drupal.org/project/calendar_view) module. It currently only works with Drupal’s normal content views, not Solr Search API. 
 
 ## Setup
 - Add `controlled_access_terms.views.inc` to the `controlled_access_terms` module folder.
